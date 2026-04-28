@@ -624,7 +624,7 @@ function Footer() {
             <GithubIcon />
           </Link>
           <Link
-            href="https://www.linkedin.com/in/genathadri"
+            href="https://www.linkedin.com/in/genat-hadri"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
